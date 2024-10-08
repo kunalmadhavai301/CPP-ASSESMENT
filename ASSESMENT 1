@@ -1,0 +1,9 @@
+This program defines a simple Car class with three attributes:
+brand, model, and year. 
+It creates two car objects, assigns values to their attributes, and prints the car details to the console.
+The program demonstrates basic object-oriented programming concepts in C++,
+such as classes and object creation.
+To run, simply compile and execute the code in any C++ compiler, and it will display the information of two cars.
+
+
+
