@@ -1,0 +1,5 @@
+This program demonstrates inheritance in C++. It has three classes: cpp, sensitive, and oop.
+The base class cpp outputs "I am a Coding Language".
+The sensitive class inherits from cpp and adds "I am case sensitive language". 
+The oop class inherits from sensitive and prints "I am an Object Oriented Programming language".
+When you run the program, it shows the constructor messages in the order of inheritance.
